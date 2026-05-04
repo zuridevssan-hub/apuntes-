@@ -1,2 +1,3 @@
 # apuntes-
-Aqui anotare todos los conocimientos que vaya aprendiendo 
+
+Aqui anotare todos los conocimientos que vaya aprendiendo
